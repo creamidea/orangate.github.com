@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Orangate Labs]]></title>
+  <link href="http://orangate.github.com/atom.xml" rel="self"/>
+  <link href="http://orangate.github.com/"/>
+  <updated>2013-03-10T14:15:18+08:00</updated>
+  <id>http://orangate.github.com/</id>
+  <author>
+    <name><![CDATA[Geogechan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
