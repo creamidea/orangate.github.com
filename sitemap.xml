@@ -1,11 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://orangate.github.com/blog/archives/</loc>
+        <loc>http://orangate.github.com/blog/2012/09/10/sxjm/</loc>
         <lastmod>2013-03-10T14:15:04+08:00</lastmod>
     </url>
     <url>
-        <loc>http://orangate.github.com/</loc>
+        <loc>http://orangate.github.com/blog/2012/09/12/ef/</loc>
         <lastmod>2013-03-10T14:15:04+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://orangate.github.com/blog/2012/09/30/outlook/</loc>
+        <lastmod>2013-03-10T14:15:04+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://orangate.github.com/blog/2012/10/03/tc/</loc>
+        <lastmod>2013-03-10T14:15:04+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://orangate.github.com/blog/2012/10/25/af/</loc>
+        <lastmod>2013-03-10T14:15:04+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://orangate.github.com/blog/2012/10/31/windows-8p/</loc>
+        <lastmod>2013-03-10T14:15:04+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://orangate.github.com/blog/2012/11/05/windows8/</loc>
+        <lastmod>2013-03-10T14:15:04+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://orangate.github.com/blog/2012/11/10/xsyz/</loc>
+        <lastmod>2013-03-10T14:15:04+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://orangate.github.com/blog/2012/12/08/aww/</loc>
+        <lastmod>2013-03-10T14:15:04+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://orangate.github.com/blog/2012/12/29/tl/</loc>
+        <lastmod>2013-03-10T14:15:04+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://orangate.github.com/blog/2013/01/01/m1/</loc>
+        <lastmod>2013-03-10T14:15:04+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://orangate.github.com/blog/2013/01/04/acg/</loc>
+        <lastmod>2013-03-10T14:15:04+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://orangate.github.com/blog/2013/03/10/test/</loc>
+        <lastmod>2013-03-10T14:18:57+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://orangate.github.com/blog/archives/</loc>
+        <lastmod>2013-03-10T14:18:57+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://orangate.github.com/</loc>
+        <lastmod>2013-03-10T14:18:57+08:00</lastmod>
     </url>
 </urlset>

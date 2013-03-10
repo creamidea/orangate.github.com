@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 学习生活 | Orangate Labs]]></title>
+  <link href="http://orangate.github.com/blog/categories/xue-xi-sheng-huo/atom.xml" rel="self"/>
+  <link href="http://orangate.github.com/"/>
+  <updated>2013-03-10T14:26:10+08:00</updated>
+  <id>http://orangate.github.com/</id>
+  <author>
+    <name><![CDATA[Geogechan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[2012高教社杯全国大学生数学建模竞赛A组题论文]]></title>
+    <link href="http://orangate.github.com/blog/2012/09/10/sxjm/"/>
+    <updated>2012-09-10T18:48:11+08:00</updated>
+    <id>http://orangate.github.com/blog/2012/09/10/sxjm</id>
+    <content type="html"><![CDATA[<p>这篇论文是吉林大学某数学建模小组的成果，成员包括Geogechan</p>
+
+<p>感谢两位才能卓越，思路清晰，富有创造力与奉献精神的队友，他们的耐心与钻研精神给我留下了深刻的印象。一位队友在最后时刻连续工作一昼夜，攻克了最大的难题；另一位队友对大量非常复杂的数据高效地处理，成功地得到了整个模型最核心的数据。没有他们的付出，这篇论文不可能面世。</p>
+
+<p>我们很自豪地说，本论文完全由我们独立完成，任何第三方（比如指导老师）提供的帮助都没有在这篇论文中得以体现，从模型的建立到数据分析，包括最后的总结，都是我们的努力成果。</p>
+
+<p>最后要感谢SPSS提供的统计软件，这是一个非常强大，但单台电脑授权达数万元的软件，整个小组的非法使用使得IBM公司的损失超过十万元人民币，对于盗版使用，我们深表歉意。</p>
+
+<p>再次向他们表示感谢！</p>
+
+<p>下面是预览地址与下载地址</p>
+
+<p><a href="https://skydrive.live.com/redir?resid=A219DDA57336E822!1031" title="全文预览">点击这里可以预览论文的全文pdf文件</a> （由Microsoft Skydrive提供）</p>
+
+<p><a href="http://geogechan.googlecode.com/files/2012%20Mathematical%20Modeling%20A.zip" title="全文与题目压缩包">点击此处下载论文pdf文件和题目的压缩包 </a>（由Google Code提供）</p>
+]]></content>
+  </entry>
+  
+</feed>
